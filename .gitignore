@@ -78,3 +78,5 @@ fabric.properties
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
 /.idea/ViseVersa2.iml
+/.idea/.gitignore
+/.idea/ViseVersa3.iml
