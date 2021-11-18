@@ -6,6 +6,8 @@
 # create feature_2
 # feature_2 is done
 
+# bag from f2
+
 # This is a sample Python script.123
 #
 # Press Shift+F10 to execute it or replace it with your code.
